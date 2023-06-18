@@ -1,0 +1,57 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO6M0wN3ccsVLKLOhAs71uT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/rvraghvender/DeepLearningProjects/blob/main/ConvolutionNeuralNetworks/ResidualNetworks/Residual_Network\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Residual Networks\n",
+        "\n",
+        "Here in this project, we have to build a very deep convolution network, using Residual Networks (ResNets). In theory, very deep neural network can represent very complex functions; but in practice, they are hard to train. ResNets introduced by [He et al.](https://arxiv.org/pdf/1512.03385.pdf), allow you to train much deeper networks than were previously feasible.\n",
+        "\n",
+        "In this project, we will be\n",
+        "-    Implement the basic blocks of ResNets in a deep neural network using Keras\n",
+        "-    Put together these building blocks to implement and train a state-of-the-art neural network for image classification\n",
+        "-    Implement a skip connection in our network"
+      ],
+      "metadata": {
+        "id": "sAiZWjKlA1fP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "gFb6A0JfA0Om"
+      },
+      "outputs": [],
+      "source": [
+        "# Importing Relevant packages"
+      ]
+    }
+  ]
+}
